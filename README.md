@@ -1,4 +1,4 @@
 cgunifier
 =========
 
-This rep contains all my website content
+This repo contains all my website content
